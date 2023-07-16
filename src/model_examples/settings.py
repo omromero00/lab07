@@ -127,6 +127,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'oromero@unsa.edu.pe'
-EMAIL_HOST_PASSWORD = 'qu3t3sus3d3'
+EMAIL_HOST_PASSWORD = 'clave'
 EMAIL_USE_TLS = True
 EMAIL_USER_SSL = True
